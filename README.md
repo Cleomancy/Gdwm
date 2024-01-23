@@ -23,6 +23,11 @@ You can already guess my dotfiles.
 - [centeredmaster](https://dwm.suckless.org/patches/centeredmaster/)
 - [statuscmd](https://dwm.suckless.org/patches/statuscmd/)
 
+## Install:
+```
+cd Gdwm/
+sudo make clean install
+```
 
 ## Credits:
 
