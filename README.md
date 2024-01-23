@@ -1,5 +1,7 @@
 # Glorious DWM
 
+![DWM logo](dwm.png)
+
 ## Rice:
 I use DWM with dwmblocks as my status bar, st is my terminal and dmenu is my god.
 This is my build of DWM with just enough patches to stay comfy.
