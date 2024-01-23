@@ -33,8 +33,3 @@ sudo make clean install
 
 - [dwm](https://dwm.suckless.org/) obviously
 - and Mental Outlaw for his [patching tutorial](https://odysee.com/@AlphaNerd:8/patching-suckless-programs-made-easy:3)
-
-## To do:
-
-better config.h, unused fucntions still.\
-more rice?
