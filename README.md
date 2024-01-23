@@ -10,7 +10,7 @@ I use arch btw,
 ```
 pacman -Sy base-devel xorg-server xorg-xinit libxinerama libxft feh unclutter ttf-font-awesome ttf-hack
 ```
-You can already guess my dotfiles
+You can already guess my dotfiles.
 
 ## Patches:
 
