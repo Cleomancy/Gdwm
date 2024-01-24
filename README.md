@@ -25,7 +25,7 @@ You can already guess my dotfiles.
 
 ## Install:
 ```
-cd Gdwm/
+cd gdwm/
 sudo make clean install
 ```
 
