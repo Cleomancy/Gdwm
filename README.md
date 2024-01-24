@@ -21,6 +21,7 @@ You can already guess my dotfiles.
 - [scratchpad](https://dwm.suckless.org/patches/scratchpad/)
 - [swallow](https://dwm.suckless.org/patches/swallow/)
 - [centeredmaster](https://dwm.suckless.org/patches/centeredmaster/)
+- [sticky](https://dwm.suckless.org/patches/sticky/)
 
 ## Install:
 ```
