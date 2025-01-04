@@ -3,14 +3,14 @@
 ![DWM logo](dwm.png)
 
 ## Rice:
-I use DWM with slstatus, st is my terminal and dmenu is my god.
+I use DWM with dwmblocks, st is my terminal and dmenu is my god.
 This is my build of DWM with just enough patches to stay comfy.
 Change my awful shortcuts if you have a QWERTY keyboard.
 
 ## Prerequisites:
 I use arch btw,
 ```
-pacman -Sy base-devel xorg-server xorg-xinit libxinerama libxft feh unclutter ttf-font-awesome ttf-hack
+pacman -Sy base-devel xorg-server xorg-xinit libxinerama libxft
 ```
 You can already guess my dotfiles.
 
@@ -22,6 +22,8 @@ You can already guess my dotfiles.
 - [swallow](https://dwm.suckless.org/patches/swallow/)
 - [centeredmaster](https://dwm.suckless.org/patches/centeredmaster/)
 - [sticky](https://dwm.suckless.org/patches/sticky/)
+- [statuscmd](https://dwm.suckless.org/patches/statuscmd/)
+- [Xresources](https://dwm.suckless.org/patches/xresources/)
 
 ## Install:
 ```
@@ -32,4 +34,3 @@ sudo make clean install
 ## Credits:
 
 - [dwm](https://dwm.suckless.org/) obviously
-- and Mental Outlaw for his [patching tutorial](https://odysee.com/@AlphaNerd:8/patching-suckless-programs-made-easy:3)
